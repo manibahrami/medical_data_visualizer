@@ -1,6 +1,6 @@
 # medical_data_visualizer
-#![Image Alt Text](cat_plot.png)
-#![Image Alt Text](heatmap.png)
+#![Image Alt Text](cat_plot.jpg)
+#![Image Alt Text](heatmap.jpg)
 
 import pandas as pd
 import seaborn as sns
