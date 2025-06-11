@@ -1,7 +1,7 @@
 # medical_data_visualizer
 #![Image Alt Text](cat_plot.jpg)
 #![Image Alt Text](heatmap.jpg)
-
+#the data base is named medical-examination.csv
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
